@@ -6,7 +6,7 @@ const colors = require('colors')
 const listEndpoint = require('express-list-endpoints')
 //las rutas de ruta 
 const bootcampRoutes = require('./routes/BootcampRoutes') 
-const coursesRoutes = require('./routes/Courses') 
+const coursesRoutes = require('./routes/CoursesRoutes') 
 
 
 //3. establecer archivo de configuracion 
