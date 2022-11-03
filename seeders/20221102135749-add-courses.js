@@ -29,14 +29,6 @@ module.exports = {
       minimun_skill: 'basic',
       bootcamp_id: 3
     },
-    {
-      title: 'Js',
-      description: 'Course for Js learning',
-      weeks: '5',
-      enroll_cost: 4500,
-      minimun_skill: 'basic',
-      bootcamp_id: 1
-    },
   ], {});
     
   },

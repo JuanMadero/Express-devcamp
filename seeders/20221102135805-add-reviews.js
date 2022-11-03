@@ -27,13 +27,6 @@ module.exports = {
        bootcamp_id: 3,
        user_id: 3
       },
-      {
-        title: 'PHP Bootcamp',
-        Text: 'review 3 for PHP learning',
-        rating: 3,
-        bootcamp_id: 4,
-        user_id: 4
-       },
     ], {});
 
   },
